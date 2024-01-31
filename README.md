@@ -1,5 +1,5 @@
 # CryptoClustering
-Thank you to stackOverflow, chatGPT and previous examples that helped guide me through the process.
+Thank you to stackOverflow, chatGPT and previous examples that helped guide me through the process. Thank you Erin for your reassuring words.
 
 Prepare the Data
 Use the StandardScaler() module from scikit-learn to normalize the data from the CSV file.
